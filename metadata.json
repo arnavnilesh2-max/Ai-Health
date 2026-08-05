@@ -1,0 +1,6 @@
+{
+  "name": "FitQuest AI - Gamified Fitness & Nutrition Tracker",
+  "description": "A gamified fitness tracker that generates AI-personalized workouts, nutrition plans, efficient recipes, progress charts, and a motivational social feed based on body structure and metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
